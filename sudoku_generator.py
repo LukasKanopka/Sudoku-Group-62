@@ -1,5 +1,5 @@
 import math, random
-# import pygame
+import pygame
 
 
 # This was inspired and adapted by "Program for Sudoku Generator" by Aarti Rathi and Ankur Trisal in website GeeksforGeeks
